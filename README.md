@@ -27,4 +27,5 @@ Entre algoritmos e cafés, estou construindo minha jornada na tecnologia — com
 </div>
 
 
+
   
