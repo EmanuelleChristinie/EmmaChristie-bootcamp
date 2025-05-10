@@ -25,6 +25,12 @@ Entre algoritmos e cafés, estou construindo minha jornada na tecnologia — com
   <a href="https://www.linkedin.com/in/emanuelle-christinie-202900226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+ 
+  ## 💻 Progresso em ação...
+
+![Emanuelle's's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmanuelleChristinie&show_icons=true&theme=tokyonight)
+
+![Profile views](https://komarev.com/ghpvc/?username=EmanuelleChristinie&color=blueviolet)
 
 
 
